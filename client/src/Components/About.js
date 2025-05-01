@@ -4,6 +4,7 @@ const About = () => {
       Your name 123
       <br />
       Your ID
+    ALYAZIA
     </div>
   );
 };
